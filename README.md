@@ -4,27 +4,27 @@
 
 # DumbWays Assignment (Deo)
 
-### Soal 1 ([File Jawaban](../../1.js))
+### Soal 1 ([File Jawaban](https://github.com/WhiteBytez/DumbWays-Test/blob/master/1.js))
 Online demo : https://es6console.com/k0j9trua/
 
 Javascript Object Notation atau disingkat JSON sering dipakai dalam REST API. 
 JSON memiliki karekter sintak yang sangat jelas dan ringan, maka dari itu format JSON sering dipakai untuk bertukar data antara
 Server dan Client begitupun sebaliknya. 
 
-### Soal 2 ([File Jawaban](../../2.js))
+### Soal 2 ([File Jawaban](https://github.com/WhiteBytez/DumbWays-Test/blob/master/2.js))
 Online demo : https://es6console.com/k0jdovm2/
 
-### Soal 3 (WIP)
+### Soal 3 (https://github.com/WhiteBytez/DumbWays-Test/blob/master/3.js)
 WIP
 
 ### Soal 4 (WIP)
 WIP
 
-### Soal 5 ([File Jawaban](../../5.js))
+### Soal 5 ([File Jawaban](https://github.com/WhiteBytez/DumbWays-Test/blob/master/4.js))
 https://es6console.com/k0jh5km0/
 
-### Soal 6 ([File Jawaban](../../5.js))
+### Soal 6 ([File Jawaban](https://github.com/WhiteBytez/DumbWays-Test/blob/master/5.js))
 WIP
 
-### Soal 7 ([Project folder](../../7))
+### Soal 7 ([Project folder](https://github.com/WhiteBytez/DumbWays-Test/tree/master/7))
 Quick count apps.
