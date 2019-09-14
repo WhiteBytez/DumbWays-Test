@@ -14,7 +14,7 @@ Server dan Client begitupun sebaliknya.
 ### Soal 2 ([File Jawaban](https://github.com/WhiteBytez/DumbWays-Test/blob/master/2.js))
 Online demo : https://es6console.com/k0jdovm2/
 
-### Soal 3 (https://github.com/WhiteBytez/DumbWays-Test/blob/master/3.js)
+### Soal 3 ([File Jawaban](https://github.com/WhiteBytez/DumbWays-Test/blob/master/3.js))
 WIP
 
 ### Soal 4 (WIP)
