@@ -14,3 +14,17 @@ Server dan Client begitupun sebaliknya.
 ### Soal 2 ([File Jawaban](../../2.js))
 Online demo : https://es6console.com/k0jdovm2/
 
+### Soal 3 (WIP)
+WIP
+
+### Soal 4 (WIP)
+WIP
+
+### Soal 5 ([File Jawaban](../../5.js))
+https://es6console.com/k0jh5km0/
+
+### Soal 6 ([File Jawaban](../../5.js))
+WIP
+
+### Soal 7 ([Project folder](../../7))
+Quick count apps.
