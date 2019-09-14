@@ -10,3 +10,7 @@ Online demo : https://es6console.com/k0j9trua/
 Javascript Object Notation atau disingkat JSON sering dipakai dalam REST API. 
 JSON memiliki karekter sintak yang sangat jelas dan ringan, maka dari itu format JSON sering dipakai untuk bertukar data antara
 Server dan Client begitupun sebaliknya. 
+
+### Soal 2 ([File Jawaban](../../2.js))
+Online demo : https://es6console.com/k0jdovm2/
+
